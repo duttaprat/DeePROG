@@ -13,4 +13,4 @@
 * **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
 * **[numpy 1.10+](https://pypi.org/project/numpy/)**
 * **[Pytorch](https://pytorch.org/)**
-* **[Keras](https://keras.io/)
+* **[Keras](https://keras.io/)**
