@@ -1,4 +1,4 @@
-# Gene2Modality
+# Bi-modalGeneFunc
 
 ## A Bimodal Architecture for Gene Function Prediction
 
