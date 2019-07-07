@@ -4,8 +4,7 @@
 
 **Paper Name:-** An Attention based Deep Multi-modal Architecturefor Disease Gene Prognosis
 - **Authors:** Pratik Dutta, Aditya Prakash Patra and Sriparna Saha
-- **Affiliation:** Department of Computer Science and Engineering, IIT Patna, India.
-
+- **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology Patna, India.
 
 
 ## Prerequisities
@@ -25,6 +24,11 @@ It contains three modalities of all three disease gene datsets. These three moda
 * **3D PDB structure** Due to large size, you can download partial data from the [google link](https://drive.google.com/drive/folders/1ZfaqRF3QlhrWzWc53IDAmLSUEaHZ714R?usp=sharing).
 
 
+## Multi-modality Codes
+
+It contains `.ipynb` (Jupyter Notebok) files for all deep learning-based multi-modal architectures for all three disease gene datasets(**_BCLL_**, **_ILD_** and **_Prostrate_**). For each datasets, we have created three separate folders. Each folders contain `Unimodal`, `Bimodal` and `Trimodal` subfolders that contains the `python` scripts of **`self attention-based`** deep multi-modal architectures.   
+
+
 
 ## Contribution
-This work currently is under revision in peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in )
+This work currently is under revision in a peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in / pratik24111991@gmail.com)
