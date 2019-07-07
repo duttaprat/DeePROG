@@ -18,6 +18,13 @@
 * **[Keras](https://keras.io/)**
 
 
+## Dataset
+It contains three modalities of all three disease gene datsets. These three modalities are
+* **Gene Expression Profile**  Uploaded in Github.
+* **Underlying FASTA sequence** Download from the [google link](https://drive.google.com/drive/folders/1qg_FRrRQn8k9JGNJaRlEY1no2Q5Xlo3-?usp=sharing)
+* **3D PDB structure** Due to large size, you can download partial data from the [google link](https://drive.google.com/drive/folders/1ZfaqRF3QlhrWzWc53IDAmLSUEaHZ714R?usp=sharing)
+
+
 
 ## Contribution
 This work currently is under revision in peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in )
