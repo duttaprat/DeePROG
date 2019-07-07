@@ -21,8 +21,8 @@
 ## Dataset
 It contains three modalities of all three disease gene datsets. These three modalities are
 * **Gene Expression Profile**  Uploaded in Github.
-* **Underlying FASTA sequence** Download from the [google link](https://drive.google.com/drive/folders/1qg_FRrRQn8k9JGNJaRlEY1no2Q5Xlo3-?usp=sharing)
-* **3D PDB structure** Due to large size, you can download partial data from the [google link](https://drive.google.com/drive/folders/1ZfaqRF3QlhrWzWc53IDAmLSUEaHZ714R?usp=sharing)
+* **Underlying FASTA sequence** Download from the [google link](https://drive.google.com/drive/folders/1qg_FRrRQn8k9JGNJaRlEY1no2Q5Xlo3-?usp=sharing).
+* **3D PDB structure** Due to large size, you can download partial data from the [google link](https://drive.google.com/drive/folders/1ZfaqRF3QlhrWzWc53IDAmLSUEaHZ714R?usp=sharing).
 
 
 
