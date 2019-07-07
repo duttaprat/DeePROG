@@ -1,0 +1,1 @@
+In this multi-modal work, we have used underlying fasta sequence as the second modality. Due to the big size of the file, we can not upload it in Github. To access the file please click the following google drive link
