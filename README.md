@@ -1,8 +1,13 @@
-# Tri-modalGeneFunc
+# Multi-modalGene
 
-## A Trimodal Architecture for Gene Function Prediction
+## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
-> In this project, we have developed a deep multimodal architecture to predicting gene function. In this work, we have three different representation (modality) of disease related gene datasets. Here the two modalities are gene expression data and another is underlying amino acid sequence. For gene expression data, we have extracted features using a multi-layer perceptron (MLP) and for the amino acid sequence, we have exploited a long short term memory(LSTM).
+**Paper Name:-** An Attention based Deep Multi-modal Architecturefor Disease Gene Prognosis
+
+ 
+
+- **Authors:** Pratik Dutta, Aditya Prakash Patra and Sriparna Saha
+- **Affiliation:** Department of Computer Science and Engineering, IIT Patna, India.
 
 
 
@@ -17,3 +22,5 @@
 
 
 
+## Contribution
+This work currently is under revision in peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in )
