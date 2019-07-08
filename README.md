@@ -29,5 +29,4 @@ It contains `.ipynb` (Jupyter Notebok) files for all deep learning-based multi-m
 
 
 
-## Contribution
-This work currently is under revision in a peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in / pratik24111991@gmail.com)
+
