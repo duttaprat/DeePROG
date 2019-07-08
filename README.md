@@ -3,8 +3,7 @@
 ## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
 **Paper Name:-** An Attention based Deep Multi-modal Architecturefor Disease Gene Prognosis
-- **Authors:** Pratik Dutta, Aditya Prakash Patra and Sriparna Saha
-- **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology Patna, India.
+
 
 
 ## Prerequisities
