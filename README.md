@@ -29,6 +29,8 @@ It contains three modalities of all three disease gene datsets. These three moda
 
 It contains `.ipynb` (Jupyter Notebok) files for all deep learning-based multi-modal architectures for all three disease gene datasets(**_BCLL_**, **_ILD_** and **_Prostrate_**). For each datasets, we have created three separate folders. Each folders contain `Unimodal`, `Bimodal` and `Trimodal` subfolders that contains the `python` scripts of **`self attention-based`** deep multi-modal architectures.   
 
+The details procedure of running the code will be described after accepting or upon a personal request in my [official email ID](pratik.pcs16@iitp.ac.in).  
+
 
 
 
