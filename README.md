@@ -6,7 +6,7 @@
 - **Authors:** Pratik Dutta, Aditya Prakash Patra, and Sriparna Saha 
 - **Affiliation:**  Department of Computer Science and Engineering, IIT Patna, India. 
 
-
+![multi-modal](https://user-images.githubusercontent.com/29531232/72711214-9508d400-3b8e-11ea-8016-dc25a37e87f8.png)
 
 ## Prerequisities
 * **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**
