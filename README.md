@@ -5,6 +5,7 @@
 **Paper Name:-** DeePROG: Deep Attention-based Model for Diseased Gene Prognosis by Fusing Multi-omics Data
 - **Authors:** Pratik Dutta, Aditya Prakash Patra, and Sriparna Saha 
 - **Affiliation:**  Department of Computer Science and Engineering, IIT Patna, India. 
+- **Submitted(Under Major Revision):** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
 
 ![multi-modal](https://user-images.githubusercontent.com/29531232/72711214-9508d400-3b8e-11ea-8016-dc25a37e87f8.png)
 
