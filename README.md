@@ -38,4 +38,15 @@ The details procedure of running the code will be described after accepting or u
 ## Contribution
 This work currently is under revision in a peer reviewed journal. For use the code or the preprocessed dataset, please open an issue first to discuss what you would like to do. Also you can contact to the corresponding author Pratik Dutta (pratik.pcs16@iitp.ac.in / pratik24111991@gmail.com)
 
+## Citation
+If you consider this work as useful, please cite it as 
+```bash
+@article{dutta2021deeprog,
+  title={DeePROG: Deep Attention-based Model for Diseased Gene Prognosis by Fusing Multi-omics Data.},
+  author={Dutta, Pratik and Patra, Aditya Prakash and Saha, Sriparna},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year={2021}
+}
+```
+
 
